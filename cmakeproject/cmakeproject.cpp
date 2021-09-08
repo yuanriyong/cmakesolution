@@ -14,5 +14,6 @@ int main()
 	std::cout << "4 add" << std::endl;
 	std::cout << "4_1 in master" << std::endl;
 	std::cout << "5 temp" << std::endl;
+	std::cout << "6 in dev" << std::endl;
 	return 0;
 }
